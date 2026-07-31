@@ -1,4 +1,4 @@
-# Project 2: Hourly Energy Consumption Forecasting with an LSTM (PyTorch)
+# Hourly Energy Consumption Forecasting with an LSTM (PyTorch)
 
 An intermediate **time-series** project: predict the next hour's electricity
 demand (megawatts) for the PJM Interconnection grid using a sliding-window
